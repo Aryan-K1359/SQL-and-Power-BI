@@ -1,4 +1,4 @@
-**Sales Analysis Project Report: SQL and Power BI**
+
 
 ---
 
