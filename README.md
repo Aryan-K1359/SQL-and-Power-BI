@@ -64,7 +64,7 @@ Key SQL operations performed:
 
 2. **Column Selection and Transformation:**
    Columns were prepared using SQL transformations:
-   - Renamed columns for clarity (e.g., `Cust_ID` to `Customer_ID`).
+   - Renamed columns for clarity (e.g., Cust_ID to Customer_ID).
    - Combined columns (e.g., concatenating first and last names).
    - Applied the **WHERE** clause to filter relevant data (e.g., transactions within the past year).
    - Used **LEFT JOIN** to connect fact and dimension tables.
